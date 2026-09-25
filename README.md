@@ -105,7 +105,3 @@ LM Studio com o modelo hermes-3-llama-3.2-3b carregado e o servidor local ativo 
 - Requests – Comunicação com a API do LM Studio.
 
 - Scikit-learn – Geração de datasets sintéticos e métricas auxiliares.
-
-# 📄 Licença
-
-Este projeto está licenciado sob a MIT License. Sinta‑se à vontade para usar, modificar e distribuir.
